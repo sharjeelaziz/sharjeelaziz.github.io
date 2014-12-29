@@ -1,0 +1,16 @@
+# Site settings
+title: Sharjeel Aziz
+email: sharjeel.aziz@gmail.com
+description: "shaji's blog"
+baseurl: ""
+url: "http://sharjeelaziz.github.io"
+twitter_username: sharjeelaziz
+github_username:  sharjeelaziz
+facebook_username:  
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
