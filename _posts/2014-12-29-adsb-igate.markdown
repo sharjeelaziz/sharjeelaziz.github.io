@@ -146,6 +146,6 @@ Dump1090 is a simple Mode S decoder for RTLSDR devices
 	./dump1090 --net --aggressive --ppm 43 --device-index 1
 
 ### References
-http://www.kubonweb.de/?p=130
-http://www.algissalys.com/index.php/amateur-radio/88-raspberry-pi-sdr-dongle-aprs-igate
-http://www.satsignal.eu/raspberry-pi/dump1090.html
+1. [http://www.kubonweb.de/?p=130](http://www.kubonweb.de/?p=130)
+2. [http://www.algissalys.com/index.php/amateur-radio/88-raspberry-pi-sdr-dongle-aprs-igate](http://www.algissalys.com/index.php/amateur-radio/88-raspberry-pi-sdr-dongle-aprs-igate)
+3. [http://www.satsignal.eu/raspberry-pi/dump1090.html](http://www.satsignal.eu/raspberry-pi/dump1090.html)
