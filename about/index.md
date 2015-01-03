@@ -9,5 +9,5 @@ image:
   creditlink: https://www.flickr.com/photos/willyverhulst/
 ---
 
-I am a husband, dad, techie, [code crafter](http://stackoverflow.com/users/199122), [neogeographer](http://www.openstreetmap.org/user/shaji), [OSMer](http://www.openstreetmap.org/user/shaji), tinkerer, gadgeteer, [repraper](http://www.reprap.org/), [amateur photographer](http://www.flickr.com/photos/sharjeelaziz/), [kickstarter](http://www.kickstarter.com/profile/sharjeelaziz), [music lover](http://www.last.fm/user/sharjeelaziz), ham (km4dsz) and an [ex-smoker](http://www.pippakay.com.au/hazards.html)
+I am a husband, dad, techie, [code crafter](http://stackoverflow.com/users/199122), [neogeographer](http://www.openstreetmap.org/user/shaji), [OSMer](http://www.openstreetmap.org/user/shaji), tinkerer, gadgeteer, [repraper](http://www.reprap.org/), [amateur photographer](http://www.flickr.com/photos/sharjeelaziz/), [kickstarter](http://www.kickstarter.com/profile/sharjeelaziz), [music lover](http://www.last.fm/user/sharjeelaziz), ham (<code>K0DEV</code>) and an [ex-smoker](http://www.pippakay.com.au/hazards.html)
 
