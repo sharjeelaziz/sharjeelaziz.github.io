@@ -5,7 +5,7 @@ locale: en_US
 description: If I knew what I was doing.
 logo: site-logo.png
 search: true
-url: 
+url:
 
 
 # Jekyll configuration
@@ -35,7 +35,7 @@ owner:
   name: Sharjeel Aziz
   avatar: bio-photo.jpg
   email: sharjeel.aziz@gmail.com
-  disqus-shortname:
+  disqus-shortname: sharjeelaziz
   twitter: sharjeelaziz
   facebook: #username
   github: sharjeelaziz
@@ -49,5 +49,5 @@ owner:
     analytics: UA-57253290-1
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify: 5C1A5CADA05066A59673CD26DFB571D0
