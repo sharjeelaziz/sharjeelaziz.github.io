@@ -11,11 +11,11 @@ image:
 
 One thing that I can remember doing, as far back as I can, is reading books. I spent a lot of my time looking for interesting books to read and developed a great interest in sociology, archeology, geography, science, history, and technology.
 
-I soon discovered radio. I still remember my first book on the subject, [“Making A Transistor Radio,”][1] by [George Dobbs (G3RJV)] [2], which introduced me to a wooden breadboard and a method of connecting components together using brass screws. The design was beautiful and efficient, sparking within me a profound desire to learn more about radios, transmitters, antennas, electronics, communication, and computers. 
+I soon discovered radio. I still remember my first book on the subject, [“Making A Transistor Radio,”][1] by [George Dobbs (G3RJV)][2], which introduced me to a wooden breadboard and a method of connecting components together using brass screws. The design was beautiful and efficient, sparking within me a profound desire to learn more about radios, transmitters, antennas, electronics, communication, and computers.
 
-At an early age, when most children nursed dreams of growing up to be doctors and pilots, I had no idea what I wanted to be. However, my growing interest in electronics soon led me to computers. At this point I discovered computer languages and learned the first practical use of binary arithmetic and logic. BASIC, my first computer language, and [ZX Spectrum][3], my first computer, were only the beginning of my journey and love for electronics. 
+At an early age, when most children nursed dreams of growing up to be doctors and pilots, I had no idea what I wanted to be. However, my growing interest in electronics soon led me to computers. At this point I discovered computer languages and learned the first practical use of binary arithmetic and logic. BASIC, my first computer language, and [ZX Spectrum][3], my first computer, were only the beginning of my journey and love for electronics.
 
-Around that time I also developed a great love for [music][4]. I mostly listened to rock music. Classic rock bands like Guns N’ Roses, Van Halen, Bon Jovi, Aerosmith, The Scorpions, Foreigner, The Cars, Def Leppard, Metallica, The Police, Dire Straits, Genesis, U2, Black Sabbath, Ozzy Osbourne,Bruce Springsteen, R.E.M., Tom Petty & the Heartbreakers, The Rolling Stones, The Who, Heart, David Bowie, Paul McCartney, Pink Floyd, Chicago, The Eagles, and many more became my favorite bands. 
+Around that time I also developed a great love for [music][4]. I mostly listened to rock music. Classic rock bands like Guns N’ Roses, Van Halen, Bon Jovi, Aerosmith, The Scorpions, Foreigner, The Cars, Def Leppard, Metallica, The Police, Dire Straits, Genesis, U2, Black Sabbath, Ozzy Osbourne,Bruce Springsteen, R.E.M., Tom Petty & the Heartbreakers, The Rolling Stones, The Who, Heart, David Bowie, Paul McCartney, Pink Floyd, Chicago, The Eagles, and many more became my favorite bands.
 
 And my love for antennas remained as I enjoyed distant SW radio stations and spent more time on the roof, baking in the summer sun, while working on my antennas in order to listen to the DX stations.
 
@@ -23,7 +23,7 @@ As I did this I decided to learn more than the BASIC language offered and shortl
 
 Those around me knew of my fondness for computers and together we established a computer hardware service business where we fixed computers and continued to practice software development. One day, a serial entrepreneur from the USA came in and asked if we were familiar with Windows programming. Since we were well familiar with Windows, he asked us to assist with offshore software development as well as software products. At this point I mainly used Microsoft C++ (and later Microsoft Visual C++), and my experience instilled in me a passion for great software products, serving as the foundation for my product management  experience.
 
-My initial online experience came through CompuServe. I quickly became an avid fan of [Linux][6]. We pronounced it “Lynuks” until Linus Torvalds came out with an audio recording on how to say it. Slackware was my favorite distribution and we got our CD ROMs from [Walnut Creek CDROM][7]. Linux inspired me to learn TCP/IP, networking, bind, DNS, SMTP, POP3, FTP, HTTP, bash, open source, IRC, MUDs, GNU, EFF, Python, VI, etc. Linux introduced me to the Internet and the World Wide Web. 
+My initial online experience came through CompuServe. I quickly became an avid fan of [Linux][6]. We pronounced it “Lynuks” until Linus Torvalds came out with an audio recording on how to say it. Slackware was my favorite distribution and we got our CD ROMs from [Walnut Creek CDROM][7]. Linux inspired me to learn TCP/IP, networking, bind, DNS, SMTP, POP3, FTP, HTTP, bash, open source, IRC, MUDs, GNU, EFF, Python, VI, etc. Linux introduced me to the Internet and the World Wide Web.
 
 The new millennium brought with it many new things for me to learn and love. [Agile software development][8], extreme programming XP, test driven development, Apache Subversion (thankful to be rid of VSS), build automation, continuous integration, daily commits, production environment clones, and continuous deployment. [OpenStreetMap][9] fulfilled my passion for neogeography and I enjoyed many hour contributing to the free map of the world.
 
@@ -41,4 +41,3 @@ I am currently a [Chief Intrapreneur at NuAxis Innovations][10], where I transfo
 [8]: http://agilemanifesto.org/
 [9]: https://www.openstreetmap.org/user/shaji/history
 [10]: https://www.linkedin.com/in/sharjeelaziz
-
