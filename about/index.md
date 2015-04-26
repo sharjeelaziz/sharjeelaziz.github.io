@@ -2,26 +2,25 @@
 layout: page
 title: About
 excerpt: "What I do."
-modified: 2015-01-02T00:19:01+00:00
+modified: 2015-04-25T00:22:28+00:00
 image:
   feature: about-bg.jpg
   credit: Willy Verhulst
   creditlink: https://www.flickr.com/photos/willyverhulst/
 ---
-
 One thing that I can remember doing, as far back as I can, is reading books. I spent a lot of my time looking for interesting books to read and developed a great interest in sociology, archeology, geography, science, history, and technology.
 
-I soon discovered radio. I still remember my first book on the subject, [“Making A Transistor Radio,”][1] by [George Dobbs (G3RJV)][2], which introduced me to a wooden breadboard and a method of connecting components together using brass screws. The design was beautiful and efficient, sparking within me a profound desire to learn more about radios, transmitters, antennas, electronics, communication, and computers.
+It was not long before I discovered radio. I still remember my first book on the subject, [“Making A Transistor Radio,”][1] by [George Dobbs (G3RJV)][2], which introduced me to a wooden breadboard and a method of connecting components together using brass screws. The design was beautiful and efficient, sparking within me a profound desire to learn more about radios, transmitters, antennas, electronics, communication, and computers.
 
 At an early age, when most children nursed dreams of growing up to be doctors and pilots, I had no idea what I wanted to be. However, my growing interest in electronics soon led me to computers. At this point I discovered computer languages and learned the first practical use of binary arithmetic and logic. BASIC, my first computer language, and [ZX Spectrum][3], my first computer, were only the beginning of my journey and love for electronics.
 
 Around that time I also developed a great love for [music][4]. I mostly listened to rock music. Classic rock bands like Guns N’ Roses, Van Halen, Bon Jovi, Aerosmith, The Scorpions, Foreigner, The Cars, Def Leppard, Metallica, The Police, Dire Straits, Genesis, U2, Black Sabbath, Ozzy Osbourne,Bruce Springsteen, R.E.M., Tom Petty & the Heartbreakers, The Rolling Stones, The Who, Heart, David Bowie, Paul McCartney, Pink Floyd, Chicago, The Eagles, and many more became my favorite bands.
 
-And my love for antennas remained as I enjoyed distant SW radio stations and spent more time on the roof, baking in the summer sun, while working on my antennas in order to listen to the DX stations.
+And my love for radio and antennas remained as I enjoyed distant SW radio stations and spent more time on the roof, baking in the summer sun, while working on my antennas in order to listen to the DX stations.
 
 As I did this I decided to learn more than the BASIC language offered and shortly thereafter I discovered [The C Programming Language][5] by Brian Kernighan and Dennis Ritchie. This initiated my interest in programming languages, but without a PC I was forced to sign up for computer courses simply to practice programming while the rest of the class learned WordStar. It was great.
 
-Those around me knew of my fondness for computers and together we established a computer hardware service business where we fixed computers and continued to practice software development. One day, a serial entrepreneur from the USA came in and asked if we were familiar with Windows programming. Since we were well familiar with Windows, he asked us to assist with offshore software development as well as software products. At this point I mainly used Microsoft C++ (and later Microsoft Visual C++), and my experience instilled in me a passion for great software products, serving as the foundation for my product management  experience.
+Those around me knew of my fondness for computers and together we established a computer hardware service business where we fixed computers and continued to practice software development. One day, a serial entrepreneur from the USA came in and asked if we were familiar with Windows programming. Since we were well familiar with Windows, he asked us to assist with offshore software development as well as software products. At this point I mainly used Microsoft C++ (and later Microsoft Visual C++), and my experience instilled in me a passion for great software products, serving as the foundation for my product management experience.
 
 My initial online experience came through CompuServe. I quickly became an avid fan of [Linux][6]. We pronounced it “Lynuks” until Linus Torvalds came out with an audio recording on how to say it. Slackware was my favorite distribution and we got our CD ROMs from [Walnut Creek CDROM][7]. Linux inspired me to learn TCP/IP, networking, bind, DNS, SMTP, POP3, FTP, HTTP, bash, open source, IRC, MUDs, GNU, EFF, Python, VI, etc. Linux introduced me to the Internet and the World Wide Web.
 
