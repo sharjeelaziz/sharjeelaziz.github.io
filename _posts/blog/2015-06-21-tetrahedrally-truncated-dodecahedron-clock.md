@@ -18,4 +18,4 @@ The clock consists of a 3D printed case designed in SketchUp and printed by [Sha
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-RI2aG52GX4" frameborder="0" allowfullscreen></iframe>
 
-The project is hosted at https://github.com/sharjeelaziz/dodecahedron-clock
+The project is hosted at [https://github.com/sharjeelaziz/dodecahedron-clock.](https://github.com/sharjeelaziz/dodecahedron-clock)
