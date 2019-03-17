@@ -6,7 +6,7 @@ description: bits and atoms
 logo: site-logo.png
 search: true
 url:
-
+theme: minimal-mistakes-jekyll
 
 # Jekyll configuration
 
