@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Shaji Aziz
+title: Sharjeel Aziz
 description: bits and atoms # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-author-name:   Shaji Aziz
+author-name:   Sharjeel Aziz
 author-avatar:
 
 
